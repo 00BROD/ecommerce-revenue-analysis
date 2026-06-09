@@ -3,6 +3,7 @@
 A SQL-first analysis answering a real operator question: **is our cheapest acquisition channel actually our most profitable one?** (Spoiler: no.)
 
 **→ Read the full writeup: [ANALYSIS.md](ANALYSIS.md)**
+**→ Business-analysis case (BABOK-structured): [BUSINESS-ANALYSIS.md](BUSINESS-ANALYSIS.md)** · [Elicitation plan](ELICITATION-PLAN.md)
 
 ![Channel value](charts/channel_value.png)
 
